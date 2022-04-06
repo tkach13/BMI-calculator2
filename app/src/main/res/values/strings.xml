@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BMI calculator3</string>
+    <string name="bmi_calculator_title_text">BMI Calculator</string>
+    <string name="edit_text_mass_hint">შეიყვანეთ მასა კგ-ში</string>
+    <string name="edit_text_height_hint">შეიყვანეთ სიმაღლე სმ-ში</string>
+    <string name="btn_calc_text">გამოთვალე</string>
+</resources>
